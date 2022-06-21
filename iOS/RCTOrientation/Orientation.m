@@ -13,7 +13,7 @@
 @synthesize bridge = _bridge;
 
 //static UIInterfaceOrientationMask _orientation = UIInterfaceOrientationMaskAllButUpsideDown;
-static UIInterfaceOrientationMask _orientation = UIDeviceOrientationPortrait; //locked to portrait
+static UIInterfaceOrientationMask _orientation = UIInterfaceOrientationMaskPortrait; //locked to portrait
 
 + (void)setOrientation: (UIInterfaceOrientationMask)orientation {
   _orientation = orientation;
