@@ -1,5 +1,3 @@
-修复iOS下横屏启动会造成底部工具栏异常的问题
-
 ## React Native Orientation
 [![npm version](https://badge.fury.io/js/react-native-orientation.svg)](https://badge.fury.io/js/react-native-orientation)
 
